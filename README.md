@@ -12,6 +12,9 @@ The primary goal of this project is to acquire insight into Walmart's sales data
 
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon, and Naypyitaw. The data contains 17 columns and 1000 rows:
 
+![image](https://github.com/Kanhiya31/Walmart_Sales_Data_Analysis_SQL_Queries/assets/155901883/4ac84d73-c087-4e30-98b6-c777125ba0a0)
+
+
 
 
 **Analysis List**
