@@ -2,7 +2,7 @@
 
 **About**
 
-This project intends to investigate Walmart sales data in order to determine top performing branches and items, sales trends of various products, and consumer behaviour. The goal is to research how to improve and optimise sales methods. The information was acquired from the [your link here](Kaggle Walmart Sales Forecasting Competition)
+This project intends to investigate Walmart sales data in order to determine top performing branches and items, sales trends of various products, and consumer behaviour. The goal is to research how to improve and optimise sales methods. The information was acquired from [https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting]
 
 **Purpose of the project**
 
@@ -10,7 +10,7 @@ The primary goal of this project is to acquire insight into Walmart's sales data
 
 **About data**
 
-The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon, and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]. This dataset contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon, and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 ![image](https://github.com/Kanhiya31/Walmart_Sales_Data_Analysis_SQL_Queries/assets/155901883/4ac84d73-c087-4e30-98b6-c777125ba0a0)
 
