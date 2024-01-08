@@ -2,7 +2,7 @@
 
 **About**
 
-This project intends to investigate Walmart sales data in order to determine top performing branches and items, sales trends of various products, and consumer behaviour. The goal is to research how to improve and optimise sales methods. The information was acquired from the [Kaggle Walmart Sales Forecasting Competition]
+This project intends to investigate Walmart sales data in order to determine top performing branches and items, sales trends of various products, and consumer behaviour. The goal is to research how to improve and optimise sales methods. The information was acquired from the [your link here](Kaggle Walmart Sales Forecasting Competition)
 
 **Purpose of the project**
 
