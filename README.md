@@ -49,16 +49,6 @@ There are no null values in our database because specified NOT NULL for each fie
 •	**Add a new column named month_name** that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and 
    profit.
 
-   **Conclusion**
-
-**In this comprehensive analysis of Walmart sales data, the dataset encompasses three distinct cities: Yangon, Naypyitaw, and Mandalay, each featuring six diverse product lines. Following a meticulous examination, it has been discerned that the Fashion Accessories product line stands out as the top-performing category.**
-
-**Payment methods adopted by customers during transactions were also scrutinized, revealing that the most prevalent method is cash, closely followed by e-wallet transactions. Noteworthy findings indicate that January emerges as the peak month for overall sales, with Naypyitaw demonstrating itself as the most revenue-generating city.**
-
-**Moreover, an intriguing revelation pertains to the popularity of the Fashion Accessories product line, particularly among female consumers, underscoring its significance in the market. Delving into the temporal aspect, sales peaks during the evening hours, attributed to the post-work hours when individuals are likely to engage in shopping.**
-
-**A critical facet of revenue generation is attributed to "membership" customers, signifying the significance of loyalty programs and customer retention strategies in enhancing Walmart's financial performance. This comprehensive analysis sheds light on pivotal aspects, providing strategic insights that can inform and optimize sales strategies for sustained growth.**
-
    
 **Business Questions To Answer**
 
@@ -100,4 +90,14 @@ There are no null values in our database because specified NOT NULL for each fie
 8.	Which time of the day do customers give most ratings per branch?
 9.	Which day fo the week has the best avg ratings?
 10.	Which day of the week has the best average ratings per branch?
+
+ **Conclusion**
+
+**In this comprehensive analysis of Walmart sales data, the dataset encompasses three distinct cities: Yangon, Naypyitaw, and Mandalay, each featuring six diverse product lines. Following a meticulous examination, it has been discerned that the Fashion Accessories product line stands out as the top-performing category.**
+
+**Payment methods adopted by customers during transactions were also scrutinized, revealing that the most prevalent method is cash, closely followed by e-wallet transactions. Noteworthy findings indicate that January emerges as the peak month for overall sales, with Naypyitaw demonstrating itself as the most revenue-generating city.**
+
+**Moreover, an intriguing revelation pertains to the popularity of the Fashion Accessories product line, particularly among female consumers, underscoring its significance in the market. Delving into the temporal aspect, sales peaks during the evening hours, attributed to the post-work hours when individuals are likely to engage in shopping.**
+
+**A critical facet of revenue generation is attributed to "membership" customers, signifying the significance of loyalty programs and customer retention strategies in enhancing Walmart's financial performance. This comprehensive analysis sheds light on pivotal aspects, providing strategic insights that can inform and optimize sales strategies for sustained growth.**
 
